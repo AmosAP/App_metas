@@ -21,3 +21,7 @@ Sequencia de passos logicos e finita para resolucao de um problema.
 - Coletar os dados
 - Processar os dados (manipular, alterar...)
 - Apresentar os dados.    
+
+## Condicional
+
+Switch
